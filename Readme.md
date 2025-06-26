@@ -1,1 +1,2 @@
-This is a project that includes the backend for Project 1(videos).
+# Backend-Project-MERN
+It contains the project that includes the backend (MERN)
